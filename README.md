@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dmitry Stoyan</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="start">Привет, меня зовут Дмитрий 👋</h3>
+<h5 align="start">Увлеченный фронтенд-разработчик из России</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
