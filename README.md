@@ -16,7 +16,7 @@
  E-mail: stoyandmitri@gmail.com
 </p>
 <p align="left">
-  Telegram: @JombeeMusic
+  Telegram: <a href="https://t.me/JombeeMusic">@JombeeMusic</a>
 </p>
 
 <h5 align="left">Мой стек:</h5>
