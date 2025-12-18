@@ -7,9 +7,6 @@
 <p align="left">
  👨‍💻 Frontend разработчик <a href="https://forum.aiondestiny.net/">Aoin Destiny</a>
 </p>
-<p align="left">
- 📚 Каждый день практикуюсь и улучшаю свои навыки.
-</p>
 
 <h5 align="left">Для связи:</h5>
 <p align="left">
